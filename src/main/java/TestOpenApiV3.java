@@ -20,16 +20,16 @@ public class TestOpenApiV3
     public static void main(String args[])
     {
         // 应用基本信息
-        String appid = "";
-        String appkey = "";
+        String appid = "100703005";
+        String appkey = "a7516cd28bfbfb6738d762a2a86f9741";
 
         // 用户的OpenID/OpenKey
-        String openid = "";
-        String openkey = "";
+        String openid = "1BCB34776C647F98B0B01061D9E128ED";
+        String openkey = "C572333371923B241795D333946E1279";
 
         // OpenAPI的服务器IP 
         // 最新的API服务器地址请参考wiki文档: http://wiki.open.qq.com/wiki/API3.0%E6%96%87%E6%A1%A3 
-        String serverName = "";
+        String serverName = "119.147.19.43";
 
         // 所要访问的平台, pf的其他取值参考wiki文档: http://wiki.open.qq.com/wiki/API3.0%E6%96%87%E6%A1%A3
         String pf = "qzone";
